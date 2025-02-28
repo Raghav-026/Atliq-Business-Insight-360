@@ -73,7 +73,7 @@ Created calculated columns using more than 40 DAX formulas (Formulas listed at t
 ## Step – 8
 This was the last step before start creating the design work and building the dashboards. This step was to optimize the report to reduce the report/file size. This is an important step which helps in reducing the file size so that is easy to share and access by users.
 
-##Building The Dashboard
+# Building The Dashboard
 I have created 5 different report views in this report which serves the need of various stakeholders. Let’s have a look at each of them.
 
 The first page of the report is a home page with the navigation to all other views and a summary of each page so a user can directly access the report they need to look at.
